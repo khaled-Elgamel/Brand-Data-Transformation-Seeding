@@ -1,0 +1,269 @@
+[
+  {
+    "_id": {
+      "$oid": "68f56ca99354fb2d2a635f46"
+    },
+    "brandName": "Elegant Wooden Bacon",
+    "yearFounded": 1960,
+    "headquarters": "Tremayneworth",
+    "numberOfLocations": 3872,
+    "createdAt": {
+      "$date": "2025-10-19T22:56:41.042Z"
+    },
+    "updatedAt": {
+      "$date": "2025-10-20T14:28:05.310Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "68f56ca99354fb2d2a635f47"
+    },
+    "brandName": "Rustic Bamboo Soap",
+    "yearFounded": 2021,
+    "headquarters": "Fort Aaliyahton",
+    "numberOfLocations": 4308,
+    "createdAt": {
+      "$date": "2025-10-19T22:56:41.043Z"
+    },
+    "updatedAt": {
+      "$date": "2025-10-20T14:28:05.315Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "68f56ca99354fb2d2a635f48"
+    },
+    "brandName": "Oriental Gold Cheese",
+    "yearFounded": 1990,
+    "headquarters": "Wilkinsonhaven",
+    "numberOfLocations": 7741,
+    "createdAt": {
+      "$date": "2025-10-19T22:56:41.043Z"
+    },
+    "updatedAt": {
+      "$date": "2025-10-20T14:28:05.318Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "68f56ca99354fb2d2a635f49"
+    },
+    "brandName": "Ergonomic Silk Shoes",
+    "yearFounded": 1997,
+    "headquarters": "Morgan Hill",
+    "numberOfLocations": 4935,
+    "createdAt": {
+      "$date": "2025-10-19T22:56:41.043Z"
+    },
+    "updatedAt": {
+      "$date": "2025-10-20T14:28:05.320Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "68f56ca99354fb2d2a635f4a"
+    },
+    "brandName": "Elegant Ceramic Bike",
+    "yearFounded": 1994,
+    "headquarters": "Hankport",
+    "numberOfLocations": 9518,
+    "createdAt": {
+      "$date": "2025-10-19T22:56:41.043Z"
+    },
+    "updatedAt": {
+      "$date": "2025-10-20T14:28:05.322Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "68f56ca99354fb2d2a635f4b"
+    },
+    "brandName": "Gorgeous Metal Car",
+    "yearFounded": 1960,
+    "headquarters": "Lake Jaidafield",
+    "numberOfLocations": 8818,
+    "createdAt": {
+      "$date": "2025-10-19T22:56:41.043Z"
+    },
+    "updatedAt": {
+      "$date": "2025-10-20T14:28:05.323Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "68f56ca99354fb2d2a635f4c"
+    },
+    "brandName": "Handmade Ceramic Towels",
+    "yearFounded": 1960,
+    "headquarters": "Bayamon",
+    "numberOfLocations": 8481,
+    "createdAt": {
+      "$date": "2025-10-19T22:56:41.043Z"
+    },
+    "updatedAt": {
+      "$date": "2025-10-20T14:28:05.325Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "68f56ca99354fb2d2a635f4d"
+    },
+    "brandName": "Generic Bronze Pants",
+    "yearFounded": 1990,
+    "headquarters": "Buckeye",
+    "numberOfLocations": 9356,
+    "createdAt": {
+      "$date": "2025-10-19T22:56:41.043Z"
+    },
+    "updatedAt": {
+      "$date": "2025-10-20T14:28:05.326Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "68f56ca99354fb2d2a635f4e"
+    },
+    "brandName": "Elegant Gold Car",
+    "yearFounded": 1999,
+    "headquarters": "Prosaccoview",
+    "numberOfLocations": 7438,
+    "createdAt": {
+      "$date": "2025-10-19T22:56:41.043Z"
+    },
+    "updatedAt": {
+      "$date": "2025-10-20T14:28:05.327Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "68f56ca99354fb2d2a635f4f"
+    },
+    "brandName": "Intelligent Wooden Pizza",
+    "yearFounded": 1965,
+    "headquarters": "Plano",
+    "numberOfLocations": 8370,
+    "createdAt": {
+      "$date": "2025-10-19T22:56:41.043Z"
+    },
+    "updatedAt": {
+      "$date": "2025-10-20T14:28:05.329Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "66069ff93007b006635c0245"
+    },
+    "brandName": "Ward, Hand and Ortiz",
+    "headquarters": "Jastside",
+    "numberOfLocations": 2132,
+    "updatedAt": {
+      "$date": "2025-10-20T14:23:04.142Z"
+    },
+    "yearFounded": 1970
+  },
+  {
+    "_id": {
+      "$oid": "66069ff93007b006635c0246"
+    },
+    "brandName": "Ergonomic Frozen Bacon",
+    "yearFounded": 1960,
+    "headquarters": "Gavinstead",
+    "numberOfLocations": 1,
+    "updatedAt": {
+      "$date": "2025-10-20T14:23:04.157Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "66069ff93007b006635c0247"
+    },
+    "brandName": "Breitenberg, Greenholt and Ledner",
+    "yearFounded": 1982,
+    "headquarters": "Fort Lenna",
+    "numberOfLocations": 1000
+  },
+  {
+    "_id": {
+      "$oid": "66069ff93007b006635c0248"
+    },
+    "brandName": "Modern Granite Fish",
+    "yearFounded": 1970,
+    "headquarters": "Kundebury",
+    "numberOfLocations": 1,
+    "updatedAt": {
+      "$date": "2025-10-20T14:23:04.168Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "66069ff93007b006635c0249"
+    },
+    "brandName": "Gorgeous Granite Pizza",
+    "headquarters": "Jonesborough",
+    "numberOfLocations": 1,
+    "updatedAt": {
+      "$date": "2025-10-20T14:23:04.174Z"
+    },
+    "yearFounded": 1980
+  },
+  {
+    "_id": {
+      "$oid": "66069ff93007b006635c024a"
+    },
+    "brandName": "Oriental Plastic Pants",
+    "yearFounded": 1970,
+    "headquarters": "Wardfort",
+    "numberOfLocations": 1,
+    "updatedAt": {
+      "$date": "2025-10-20T14:23:04.178Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "66069ff93007b006635c024b"
+    },
+    "brandName": "Refined Granite Towels",
+    "yearFounded": 1960,
+    "headquarters": "Lemkeland",
+    "numberOfLocations": 1,
+    "updatedAt": {
+      "$date": "2025-10-20T14:23:04.182Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "66069ff93007b006635c024c"
+    },
+    "brandName": "Corkery Inc",
+    "yearFounded": 1935,
+    "numberOfLocations": 9200,
+    "headquarters": "DuBuqueburgh",
+    "updatedAt": {
+      "$date": "2025-10-20T14:23:04.187Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "66069ff93007b006635c024d"
+    },
+    "yearFounded": 1960,
+    "headquarters": "West Mylesboro",
+    "numberOfLocations": 1,
+    "brandName": "Licensed Concrete Tuna",
+    "updatedAt": {
+      "$date": "2025-10-20T14:23:04.192Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "66069ff93007b006635c024e"
+    },
+    "brandName": "Generic Cotton Pizza",
+    "yearFounded": 1960,
+    "headquarters": "North Ralphport",
+    "numberOfLocations": 1,
+    "updatedAt": {
+      "$date": "2025-10-20T14:23:04.197Z"
+    }
+  }
+]
